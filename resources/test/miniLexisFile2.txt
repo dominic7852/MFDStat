@@ -1,0 +1,47 @@
+﻿
+some junk apple
+
+LENGTH: 55 words
+
+exclude "apple" pear. apples pears (2)
+exclude banana bananananana bana (2)
+exc junk carrot carrot carrot (3)
+
+LOAD-DATE: February 5, 2016
+
+some junk apple
+
+LENGTH: 55 words
+
+car train plane
+cars trains planes
+
+LOAD-DATE: February 15, 2016
+LENGTH: 0 words
+
+LOAD-DATE: February 15, 2016
+
+junk
+
+LENGTH: 0 words
+
+junk junk junk
+junk junk
+junk
+junk junk junk
+junk junk
+junk
+junk junk junk
+junk junk
+junk
+junk junk junk
+junk junk
+junk
+junk junk junk
+junk junk
+junk
+junk junk junk
+junk junk
+junk
+
+LOAD-DATE: February 15, 2016
